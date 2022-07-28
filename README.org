@@ -1,0 +1,13 @@
+* ug-dl
+At the moment it's a work in progress. I got the generation of api keys working. I plan to soon get downloads working.
+
+this project is mainly for me to to learn common lisp while doing something I need.
+
+** TODO list [1/4]
+- [X] generate device and api key
+- [ ] download tab from id
+- [ ] dowload tabs in bulk from a artist
+- [ ] add more ideas
+
+* resources
+[[https://github.com/Pilfer/ultimate-guitar-scraper]] I've been using this to help me reverse engineer ug since I don't have much experience with reverse engineering. I'd like to thank him!
